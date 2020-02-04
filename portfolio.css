@@ -1,0 +1,12 @@
+body {
+  font-family: Avenir;
+}
+
+#header {
+  color: black;
+  text-shadow: 1px 4px 2px #a1b9c2;
+  background-image: linear-gradient(white, 	#bcd8e3);
+}
+
+
+
