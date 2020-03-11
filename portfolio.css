@@ -8,5 +8,13 @@ body {
   background-image: linear-gradient(white, 	#bcd8e3);
 }
 
+.card-img-bottom {
+  border-radius: 20%;
+}
+
+#appicon {
+  padding-left: 0px;
+}
+
 
 
