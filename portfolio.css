@@ -5,7 +5,7 @@ body {
 #header {
   font-family: 'Montserrat', sans-serif;
   color: white;
-  letter-spacing: 0.95em;
+  letter-spacing: 0.75em;
   background-image: linear-gradient(rgb(0, 0, 0), rgb(72, 87, 96));
 }
 
