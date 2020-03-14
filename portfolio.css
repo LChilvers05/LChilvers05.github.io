@@ -12,7 +12,12 @@ body {
   letter-spacing: 0.90em;
   background-image: linear-gradient(rgb(0, 0, 0), rgb(72, 87, 96));
 }
-
+hr {
+  width: 420px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2)
+}
+/* For Phone */
 @media only screen 
   and (min-device-width: 320px) 
   and (max-device-width: 480px)
@@ -20,12 +25,9 @@ body {
     #header {
       font-size: 1px;
     }
-}
-
-hr {
-  width: 420px;
-  border-top: 1px solid #f8f8f8;
-  border-bottom: 1px solid rgba(0, 0, 0, 0.2)
+    hr {
+      width: 300px;
+    }
 }
 
 h4 {
