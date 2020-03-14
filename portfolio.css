@@ -14,9 +14,8 @@ body {
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
     #header {
-      color: red;
-      letter-spacing: 0.4em;
-      font-size: smaller;
+      color: white;
+      font-size: 1px;
     }
 }
 
