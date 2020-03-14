@@ -5,8 +5,19 @@ body {
 #header {
   font-family: 'Montserrat', sans-serif;
   color: white;
-  letter-spacing: 0.7em;
+  letter-spacing: 0.90em;
   background-image: linear-gradient(rgb(0, 0, 0), rgb(72, 87, 96));
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+  #header {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    letter-spacing: 0.4em;
+    background-image: linear-gradient(rgb(0, 0, 0), rgb(72, 87, 96));
+  }
 }
 
 hr {
