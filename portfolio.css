@@ -3,17 +3,39 @@ body {
 }
 
 #header {
-  color: black;
-  text-shadow: 1px 4px 2px #a1b9c2;
-  background-image: linear-gradient(white, 	#bcd8e3);
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  letter-spacing: 0.95em;
+  background-image: linear-gradient(rgb(0, 0, 0), rgb(72, 87, 96));
+}
+
+hr {
+  width: 420px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2)
+}
+
+h4 {
+  font-size: xx-large;
+}
+
+.card {
+  border: 0px;
+  box-shadow: 5px 5px 10px 0 rgb(208, 208, 208);
 }
 
 .card-img-bottom {
   border-radius: 20%;
+  box-shadow: 5px 5px 10px rgb(208, 208, 208);
 }
 
 #appicon {
   padding-left: 0px;
+}
+
+#footer {
+  color: rgb(189, 189, 189);
+  text-align: center;
 }
 
 
