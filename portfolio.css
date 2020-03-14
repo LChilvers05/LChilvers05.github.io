@@ -5,7 +5,7 @@ body {
 #header {
   font-family: 'Montserrat', sans-serif;
   color: white;
-  letter-spacing: 0.75em;
+  letter-spacing: 0.7em;
   background-image: linear-gradient(rgb(0, 0, 0), rgb(72, 87, 96));
 }
 
@@ -29,7 +29,7 @@ h4 {
   box-shadow: 5px 5px 10px rgb(208, 208, 208);
 }
 
-#appicon {
+.iconbutton {
   padding-left: 0px;
 }
 
