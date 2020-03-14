@@ -2,6 +2,10 @@ body {
   font-family: Avenir;
 }
 
+.jumbotron {
+  border-radius: 0 !important;
+}
+
 #header {
   font-family: 'Montserrat', sans-serif;
   color: white;
