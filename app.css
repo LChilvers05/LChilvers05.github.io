@@ -26,7 +26,8 @@ a:hover {
 }
 
 .pageLink {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 h1 {
@@ -40,9 +41,7 @@ h1 {
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
     h1 {
-      font-size: 30px;
-      color: red;
-      letter-spacing: 0em;
+      font-size: 45px;
     }
 }
 
@@ -64,8 +63,4 @@ hr {
   width: 350px;
   border-top: 1px solid #f8f8f8;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2)
-}
-
-.col {
-  margin-top: 15px;
 }
