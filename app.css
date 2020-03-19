@@ -40,7 +40,7 @@ h1 {
   and (max-device-width: 480px)
   and (-webkit-min-device-pixel-ratio: 2) {
     h1 {
-      font-size: 50px;
+      font-size: 30px;
       color: red;
       letter-spacing: 0em;
     }
