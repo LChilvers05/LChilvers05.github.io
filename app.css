@@ -1,6 +1,6 @@
 /* General */
 html {
-  scroll-behavior: smooth;
+  /* scroll-behavior: smooth; */
 }
 body {
   font-family: Avenir;
@@ -83,7 +83,7 @@ hr {
   margin-top: -10px;
 }
 #profilePhoto {
-  border: 9px solid white;
+  border: 10px solid white;
   margin-top: -60px;
   text-align: center;
   border-radius: 100%;
