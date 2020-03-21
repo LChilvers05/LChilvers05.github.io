@@ -35,7 +35,7 @@ h4 {
   box-shadow: 3px 3px 10px 0 rgb(208, 208, 208);
 }
 hr {
-  width: 100%;
+  width: 90%;
 }
 
 /* Home Section */
@@ -76,9 +76,10 @@ hr {
 /* CV Section */
 #cv {
   padding-top: 2em;
+  padding-bottom: 1em;
 }
 #cv hr {
-  width: 262px;
+  width: 200px;
   border-top: 1px solid #000000;
   margin-top: -10px;
 }
@@ -97,6 +98,7 @@ hr {
 /* Portfolio Section */
 #portfolio {
   padding-top: 2em;
+  padding-bottom: 5em;
 }
 .header {
   font-family: 'Montserrat', sans-serif;
@@ -114,6 +116,7 @@ hr {
   width: 130px;
   border-top: 1px solid #000000;
   margin-top: -10px;
+  padding-bottom: 15px;
 }
 .card-img-bottom {
   border-radius: 20%;
