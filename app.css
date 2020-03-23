@@ -1,7 +1,4 @@
 /* General */
-html {
-  scroll-behavior: smooth;
-}
 body {
   font-family: Avenir;
 }
@@ -44,7 +41,7 @@ hr {
   background-size: cover;
   background-position: center;
   color: white;
-  padding-bottom: 17em;
+  padding-bottom: 30%;
 }
 .content {
   text-align: center;
@@ -126,7 +123,3 @@ hr {
   color: rgb(189, 189, 189);
   text-align: center;
 }
-
-
-
-
